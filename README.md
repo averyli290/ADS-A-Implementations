@@ -1,6 +1,8 @@
 # ADS-A-Implementations
 Implementations of Advanced Data Structures and Algorithms from a course offered at Proof School in the year 2021-2022.
 
+Proofs of some algorithms will also be written up in their corresponding folders, such algorithms will be designated with (~) in the list below.
+
 ## Data Structures
 - Queue
 - Stack
